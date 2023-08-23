@@ -1,0 +1,179 @@
+body{
+    font-family: Roboto, sans-serif;
+    color: #434455;
+    background-color: #FFF;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+
+
+/* header */
+.logo{
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.header .logo span{
+    color: #2E2F42;
+}
+
+.header-nav-link{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    color: #2E2F42;
+}
+
+.header-address{
+    font-style: normal;
+}
+
+.header-address-link{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    color: #434455;
+}
+
+.header-nav-list li a:active, 
+.header-nav-list li a:focus, 
+.header-nav-list li a:hover,
+.header-address-list li a:active, 
+.header-address-list li a:focus, 
+.header-address-list li a:hover{
+    color: #404BBF;
+}
+
+
+
+
+/* intro */
+.intro{
+    background: #2E2F42;
+}
+
+.intro-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    letter-spacing: 1.12px;
+}
+
+.intro-btn{
+    background: #4D5AE5;
+
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.64px;
+
+    cursor: pointer;
+}
+
+.intro-btn:hover, .intro-btn:active, .intro-btn:focus{
+    background: #404BBF;
+}
+
+
+/* other */
+.subtitle{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
+.card-list-title{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    color: #2E2F42;
+}
+
+.card-list-description{
+    font-size: 16px;
+    line-height: 1.5; 
+    letter-spacing: 0.32px;
+}
+
+
+
+/* team */
+.team{
+    background: #F4F4FD;
+}
+
+.team-card-item{
+    background-color: #FFFFFF;
+}
+
+.team .card-list h3, .team .card-list p{
+    text-align: center;
+}
+
+
+
+/* footer */
+.footer{
+    background: #2E2F42;
+}
+
+.footer-logo{
+    color: #F4F4FD;
+}
+
+.footer-description{
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
