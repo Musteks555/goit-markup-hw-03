@@ -323,6 +323,10 @@ p {
     padding: 100px 0;
 }
 
+.footer .container {
+    align-items: flex-start;
+}
+
 .footer .logo {
     margin-bottom: 16px;
 }
