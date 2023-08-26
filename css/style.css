@@ -66,7 +66,9 @@ p {
     justify-content: center;
 
     gap: 40px;
+}
 
+.header-nav-item {
     padding: 24px 0;
 }
 
@@ -328,6 +330,7 @@ p {
 }
 
 .footer .logo {
+    display: inline-block;
     margin-bottom: 16px;
 }
 
