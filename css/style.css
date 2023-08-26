@@ -78,6 +78,8 @@ p {
     color: #4d5ae5;
 
     margin-right: 76px;
+
+    display: inline-block;
 }
 
 .header .logo span {
@@ -328,7 +330,6 @@ p {
 }
 
 .footer .logo {
-    display: inline-block;
     margin-bottom: 16px;
 }
 
