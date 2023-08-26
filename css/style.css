@@ -68,10 +68,6 @@ p {
     gap: 40px;
 }
 
-.header-nav-item {
-    padding: 24px 0;
-}
-
 .logo {
     font-family: Raleway, sans-serif;
     font-size: 18px;
@@ -94,6 +90,8 @@ p {
     line-height: 1.5;
     letter-spacing: 0.32px;
     color: #2e2f42;
+
+    padding: 24px 0;
 }
 
 .header-address {
