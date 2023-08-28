@@ -77,6 +77,7 @@ p {
     text-transform: uppercase;
     color: #4d5ae5;
 
+    display: inline-block;
     margin-right: 76px;
 }
 
@@ -328,12 +329,10 @@ p {
 }
 
 .footer .logo {
-    display: inline-block;
     margin-bottom: 16px;
 }
 
 .footer .logo span {
-    display: inline-block;
     color: #f4f4fd;
 }
 
