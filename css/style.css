@@ -328,10 +328,12 @@ p {
 }
 
 .footer .logo {
+    display: inline-block;
     margin-bottom: 16px;
 }
 
 .footer .logo span {
+    display: inline-block;
     color: #f4f4fd;
 }
 
